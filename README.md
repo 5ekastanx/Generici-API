@@ -11,7 +11,7 @@ Generic API Project demonstrates the use of Django to create an API using Generi
 1. Clone the repository: 
 
     ```bash
-    git clone git@github.com:5ekastanx/Generic-Api.git
+    git clone https://github.com/5ekastanx/Generici-API.git
     ```
 
 2. Navigate to the project directory:
@@ -49,7 +49,3 @@ The project includes several Generic Views for the model that can be used to per
 ## Contact the Author
 
 The project author, Marselle, is available on [Instagram](https://instagram.com/5ekastan). Feel free to reach out to him for feedback, questions, or additional information.
-
-## License
-
-This project is distributed under the [MIT License](LICENSE). You are free to use, modify, and distribute it in accordance with the terms of this license.
